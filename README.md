@@ -6,8 +6,8 @@ A powerful Python tool for generating Frigate camera configuration at scale. Per
 
 - **Bulk Configuration**: Generate Frigate camera configs from CSV camera lists
 - **Connectivity Testing**: Automatically ping cameras to check availability
-- **Smart Organization**: Online cameras at top, offline cameras at bottom
-- **URL Sanitization**: Ensures valid camera names for RTSP streams
+- **Smart Organisation**: Online cameras at top, offline cameras at bottom
+- **URL Sanitisation**: Ensures valid camera names for RTSP streams
 - **Duplicate Handling**: Automatically resolves naming conflicts
 - **Cross-Platform**: Works on Windows, Linux, and macOS
 - **Error Handling**: Comprehensive validation and error reporting
